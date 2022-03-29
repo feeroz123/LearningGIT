@@ -1,2 +1,2 @@
 # LearningGIT
-Revising GIT
+Revising GIT for practice
