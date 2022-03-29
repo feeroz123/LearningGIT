@@ -1,4 +1,0 @@
-<html>
-<h1>This is the heading of my webpage. Welcome !</h1>
-<body>This webpage is just a dummypage created for practive</body>
-</html>
