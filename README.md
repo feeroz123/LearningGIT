@@ -1,5 +1,5 @@
 # LearningGIT
 <h2>We are learning Git</h2>
-Testing GitHub Desktop
+<body>Testing GitHub Desktop
 New entry from Github
-This is an entry from the local IDE
+This is an entry from the local IDE</body>
