@@ -1,2 +1,3 @@
 # LearningGIT
-Revising GIT for practice
+<h2>We are learning Git</h2>
+Testing GitHub Desktop
